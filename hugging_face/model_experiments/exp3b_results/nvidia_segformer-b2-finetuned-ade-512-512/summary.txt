@@ -1,0 +1,2 @@
+Exp 3B summary (2025-07-23 20:48)
+max Pearson = 0.341 at thr 0.20 (Spearman 0.320, n=48)

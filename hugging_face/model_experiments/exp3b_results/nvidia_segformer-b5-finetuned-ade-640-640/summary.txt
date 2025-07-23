@@ -1,0 +1,2 @@
+Exp 3B summary (2025-07-23 21:34)
+max Pearson = nan at thr 0.02 (Spearman nan, n=48)

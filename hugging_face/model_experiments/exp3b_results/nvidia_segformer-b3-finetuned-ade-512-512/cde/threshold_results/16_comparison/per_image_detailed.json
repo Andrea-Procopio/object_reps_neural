@@ -1,0 +1,434 @@
+[
+  {
+    "base": "shape1_concave_area1",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_concave_area1_init/frames_masks_nonmem/mask_shape1_concave_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_concave_area1_out/frames_masks_nonmem/mask_shape1_concave_area1_out.png",
+    "area_before": 715,
+    "area_after": 2281,
+    "area_change": 2.1902097902097903
+  },
+  {
+    "base": "shape1_concave_area2",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_concave_area2_init/frames_masks_nonmem/mask_shape1_concave_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_concave_area2_out/frames_masks_nonmem/mask_shape1_concave_area2_out.png",
+    "area_before": 1586,
+    "area_after": 189453,
+    "area_change": 118.45334174022699
+  },
+  {
+    "base": "shape1_concave_nofill_area1",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_concave_nofill_area1_init/frames_masks_nonmem/mask_shape1_concave_nofill_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_concave_nofill_area1_out/frames_masks_nonmem/mask_shape1_concave_nofill_area1_out.png",
+    "area_before": 1954,
+    "area_after": 2931,
+    "area_change": 0.5
+  },
+  {
+    "base": "shape1_concave_nofill_area2",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_concave_nofill_area2_init/frames_masks_nonmem/mask_shape1_concave_nofill_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_concave_nofill_area2_out/frames_masks_nonmem/mask_shape1_concave_nofill_area2_out.png",
+    "area_before": 147804,
+    "area_after": 163588,
+    "area_change": 0.10679007334036968
+  },
+  {
+    "base": "shape1_convex_area1",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_convex_area1_init/frames_masks_nonmem/mask_shape1_convex_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_convex_area1_out/frames_masks_nonmem/mask_shape1_convex_area1_out.png",
+    "area_before": 4651,
+    "area_after": 4629,
+    "area_change": 0.004730165555794453
+  },
+  {
+    "base": "shape1_convex_area2",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_convex_area2_init/frames_masks_nonmem/mask_shape1_convex_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape1_convex_area2_out/frames_masks_nonmem/mask_shape1_convex_area2_out.png",
+    "area_before": 115908,
+    "area_after": 2020,
+    "area_change": 0.982572384994996
+  },
+  {
+    "base": "shape2_concave_area1",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_concave_area1_init/frames_masks_nonmem/mask_shape2_concave_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_concave_area1_out/frames_masks_nonmem/mask_shape2_concave_area1_out.png",
+    "area_before": 4892,
+    "area_after": 3747,
+    "area_change": 0.2340556009811938
+  },
+  {
+    "base": "shape2_concave_area2",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_concave_area2_init/frames_masks_nonmem/mask_shape2_concave_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_concave_area2_out/frames_masks_nonmem/mask_shape2_concave_area2_out.png",
+    "area_before": 8161,
+    "area_after": 8380,
+    "area_change": 0.026834946697708615
+  },
+  {
+    "base": "shape2_concave_nofill_area1",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_concave_nofill_area1_init/frames_masks_nonmem/mask_shape2_concave_nofill_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_concave_nofill_area1_out/frames_masks_nonmem/mask_shape2_concave_nofill_area1_out.png",
+    "area_before": 181570,
+    "area_after": 188382,
+    "area_change": 0.03751721099300545
+  },
+  {
+    "base": "shape2_concave_nofill_area2",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_concave_nofill_area2_init/frames_masks_nonmem/mask_shape2_concave_nofill_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_concave_nofill_area2_out/frames_masks_nonmem/mask_shape2_concave_nofill_area2_out.png",
+    "area_before": 3421,
+    "area_after": 2635,
+    "area_change": 0.2297573808827828
+  },
+  {
+    "base": "shape2_convex_area1",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_convex_area1_init/frames_masks_nonmem/mask_shape2_convex_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_convex_area1_out/frames_masks_nonmem/mask_shape2_convex_area1_out.png",
+    "area_before": 269519,
+    "area_after": 1204,
+    "area_change": 0.995532782475447
+  },
+  {
+    "base": "shape2_convex_area2",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_convex_area2_init/frames_masks_nonmem/mask_shape2_convex_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape2_convex_area2_out/frames_masks_nonmem/mask_shape2_convex_area2_out.png",
+    "area_before": 2983,
+    "area_after": 2931,
+    "area_change": 0.017432115320147504
+  },
+  {
+    "base": "shape3_concave_area1",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_concave_area1_init/frames_masks_nonmem/mask_shape3_concave_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_concave_area1_out/frames_masks_nonmem/mask_shape3_concave_area1_out.png",
+    "area_before": 1347,
+    "area_after": 850,
+    "area_change": 0.36896807720861174
+  },
+  {
+    "base": "shape3_concave_area2",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_concave_area2_init/frames_masks_nonmem/mask_shape3_concave_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_concave_area2_out/frames_masks_nonmem/mask_shape3_concave_area2_out.png",
+    "area_before": 7437,
+    "area_after": 9420,
+    "area_change": 0.26663977410246065
+  },
+  {
+    "base": "shape3_concave_nofill_area1",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_concave_nofill_area1_init/frames_masks_nonmem/mask_shape3_concave_nofill_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_concave_nofill_area1_out/frames_masks_nonmem/mask_shape3_concave_nofill_area1_out.png",
+    "area_before": 369,
+    "area_after": 2091,
+    "area_change": 4.666666666666667
+  },
+  {
+    "base": "shape3_concave_nofill_area2",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_concave_nofill_area2_init/frames_masks_nonmem/mask_shape3_concave_nofill_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_concave_nofill_area2_out/frames_masks_nonmem/mask_shape3_concave_nofill_area2_out.png",
+    "area_before": 10303,
+    "area_after": 11704,
+    "area_change": 0.13597981170532855
+  },
+  {
+    "base": "shape3_convex_area1",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_convex_area1_init/frames_masks_nonmem/mask_shape3_convex_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_convex_area1_out/frames_masks_nonmem/mask_shape3_convex_area1_out.png",
+    "area_before": 5870,
+    "area_after": 7042,
+    "area_change": 0.19965928449744463
+  },
+  {
+    "base": "shape3_convex_area2",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_convex_area2_init/frames_masks_nonmem/mask_shape3_convex_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape3_convex_area2_out/frames_masks_nonmem/mask_shape3_convex_area2_out.png",
+    "area_before": 5391,
+    "area_after": 5365,
+    "area_change": 0.004822852902986459
+  },
+  {
+    "base": "shape4_concave_area1",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_concave_area1_init/frames_masks_nonmem/mask_shape4_concave_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_concave_area1_out/frames_masks_nonmem/mask_shape4_concave_area1_out.png",
+    "area_before": 2692,
+    "area_after": 4393,
+    "area_change": 0.6318722139673105
+  },
+  {
+    "base": "shape4_concave_area2",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_concave_area2_init/frames_masks_nonmem/mask_shape4_concave_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_concave_area2_out/frames_masks_nonmem/mask_shape4_concave_area2_out.png",
+    "area_before": 235,
+    "area_after": 689,
+    "area_change": 1.9319148936170212
+  },
+  {
+    "base": "shape4_concave_nofill_area1",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_concave_nofill_area1_init/frames_masks_nonmem/mask_shape4_concave_nofill_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_concave_nofill_area1_out/frames_masks_nonmem/mask_shape4_concave_nofill_area1_out.png",
+    "area_before": 7014,
+    "area_after": 6537,
+    "area_change": 0.06800684345594525
+  },
+  {
+    "base": "shape4_concave_nofill_area2",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_concave_nofill_area2_init/frames_masks_nonmem/mask_shape4_concave_nofill_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_concave_nofill_area2_out/frames_masks_nonmem/mask_shape4_concave_nofill_area2_out.png",
+    "area_before": 19696,
+    "area_after": 231,
+    "area_change": 0.9882717303005687
+  },
+  {
+    "base": "shape4_convex_area1",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_convex_area1_init/frames_masks_nonmem/mask_shape4_convex_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_convex_area1_out/frames_masks_nonmem/mask_shape4_convex_area1_out.png",
+    "area_before": 6872,
+    "area_after": 7941,
+    "area_change": 0.15555878928987193
+  },
+  {
+    "base": "shape4_convex_area2",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_convex_area2_init/frames_masks_nonmem/mask_shape4_convex_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape4_convex_area2_out/frames_masks_nonmem/mask_shape4_convex_area2_out.png",
+    "area_before": 103899,
+    "area_after": 104677,
+    "area_change": 0.007488041270849575
+  },
+  {
+    "base": "shape5_concave_area1",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_concave_area1_init/frames_masks_nonmem/mask_shape5_concave_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_concave_area1_out/frames_masks_nonmem/mask_shape5_concave_area1_out.png",
+    "area_before": 361,
+    "area_after": 203860,
+    "area_change": 563.7091412742383
+  },
+  {
+    "base": "shape5_concave_area2",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_concave_area2_init/frames_masks_nonmem/mask_shape5_concave_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_concave_area2_out/frames_masks_nonmem/mask_shape5_concave_area2_out.png",
+    "area_before": 13543,
+    "area_after": 3238,
+    "area_change": 0.760909695045411
+  },
+  {
+    "base": "shape5_concave_nofill_area1",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_concave_nofill_area1_init/frames_masks_nonmem/mask_shape5_concave_nofill_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_concave_nofill_area1_out/frames_masks_nonmem/mask_shape5_concave_nofill_area1_out.png",
+    "area_before": 1608,
+    "area_after": 5012,
+    "area_change": 2.116915422885572
+  },
+  {
+    "base": "shape5_concave_nofill_area2",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_concave_nofill_area2_init/frames_masks_nonmem/mask_shape5_concave_nofill_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_concave_nofill_area2_out/frames_masks_nonmem/mask_shape5_concave_nofill_area2_out.png",
+    "area_before": 836,
+    "area_after": 1360,
+    "area_change": 0.6267942583732058
+  },
+  {
+    "base": "shape5_convex_area1",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_convex_area1_init/frames_masks_nonmem/mask_shape5_convex_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_convex_area1_out/frames_masks_nonmem/mask_shape5_convex_area1_out.png",
+    "area_before": 8212,
+    "area_after": 6699,
+    "area_change": 0.1842425718460789
+  },
+  {
+    "base": "shape5_convex_area2",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_convex_area2_init/frames_masks_nonmem/mask_shape5_convex_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape5_convex_area2_out/frames_masks_nonmem/mask_shape5_convex_area2_out.png",
+    "area_before": 1659,
+    "area_after": 2730,
+    "area_change": 0.6455696202531646
+  },
+  {
+    "base": "shape6_concave_area1",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_concave_area1_init/frames_masks_nonmem/mask_shape6_concave_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_concave_area1_out/frames_masks_nonmem/mask_shape6_concave_area1_out.png",
+    "area_before": 123780,
+    "area_after": 11165,
+    "area_change": 0.9097996445306188
+  },
+  {
+    "base": "shape6_concave_area2",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_concave_area2_init/frames_masks_nonmem/mask_shape6_concave_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_concave_area2_out/frames_masks_nonmem/mask_shape6_concave_area2_out.png",
+    "area_before": 1716,
+    "area_after": 9047,
+    "area_change": 4.272144522144522
+  },
+  {
+    "base": "shape6_concave_nofill_area1",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_concave_nofill_area1_init/frames_masks_nonmem/mask_shape6_concave_nofill_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_concave_nofill_area1_out/frames_masks_nonmem/mask_shape6_concave_nofill_area1_out.png",
+    "area_before": 101005,
+    "area_after": 1318,
+    "area_change": 0.9869511410326222
+  },
+  {
+    "base": "shape6_concave_nofill_area2",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_concave_nofill_area2_init/frames_masks_nonmem/mask_shape6_concave_nofill_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_concave_nofill_area2_out/frames_masks_nonmem/mask_shape6_concave_nofill_area2_out.png",
+    "area_before": 192,
+    "area_after": 3727,
+    "area_change": 18.411458333333332
+  },
+  {
+    "base": "shape6_convex_area1",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_convex_area1_init/frames_masks_nonmem/mask_shape6_convex_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_convex_area1_out/frames_masks_nonmem/mask_shape6_convex_area1_out.png",
+    "area_before": 5366,
+    "area_after": 2604,
+    "area_change": 0.5147223257547522
+  },
+  {
+    "base": "shape6_convex_area2",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_convex_area2_init/frames_masks_nonmem/mask_shape6_convex_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape6_convex_area2_out/frames_masks_nonmem/mask_shape6_convex_area2_out.png",
+    "area_before": 115549,
+    "area_after": 446,
+    "area_change": 0.9961401656440125
+  },
+  {
+    "base": "shape7_concave_area1",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_concave_area1_init/frames_masks_nonmem/mask_shape7_concave_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_concave_area1_out/frames_masks_nonmem/mask_shape7_concave_area1_out.png",
+    "area_before": 2227,
+    "area_after": 3435,
+    "area_change": 0.5424337674000899
+  },
+  {
+    "base": "shape7_concave_area2",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_concave_area2_init/frames_masks_nonmem/mask_shape7_concave_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_concave_area2_out/frames_masks_nonmem/mask_shape7_concave_area2_out.png",
+    "area_before": 2868,
+    "area_after": 5324,
+    "area_change": 0.8563458856345886
+  },
+  {
+    "base": "shape7_concave_nofill_area1",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_concave_nofill_area1_init/frames_masks_nonmem/mask_shape7_concave_nofill_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_concave_nofill_area1_out/frames_masks_nonmem/mask_shape7_concave_nofill_area1_out.png",
+    "area_before": 3537,
+    "area_after": 5658,
+    "area_change": 0.5996607294317218
+  },
+  {
+    "base": "shape7_concave_nofill_area2",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_concave_nofill_area2_init/frames_masks_nonmem/mask_shape7_concave_nofill_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_concave_nofill_area2_out/frames_masks_nonmem/mask_shape7_concave_nofill_area2_out.png",
+    "area_before": 9940,
+    "area_after": 13475,
+    "area_change": 0.35563380281690143
+  },
+  {
+    "base": "shape7_convex_area1",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_convex_area1_init/frames_masks_nonmem/mask_shape7_convex_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_convex_area1_out/frames_masks_nonmem/mask_shape7_convex_area1_out.png",
+    "area_before": 1861,
+    "area_after": 2356,
+    "area_change": 0.2659860290166577
+  },
+  {
+    "base": "shape7_convex_area2",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_convex_area2_init/frames_masks_nonmem/mask_shape7_convex_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape7_convex_area2_out/frames_masks_nonmem/mask_shape7_convex_area2_out.png",
+    "area_before": 11755,
+    "area_after": 2951,
+    "area_change": 0.748957890259464
+  },
+  {
+    "base": "shape8_concave_area1",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_concave_area1_init/frames_masks_nonmem/mask_shape8_concave_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_concave_area1_out/frames_masks_nonmem/mask_shape8_concave_area1_out.png",
+    "area_before": 3757,
+    "area_after": 4619,
+    "area_change": 0.22943838168751662
+  },
+  {
+    "base": "shape8_concave_area2",
+    "type": "concave",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_concave_area2_init/frames_masks_nonmem/mask_shape8_concave_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_concave_area2_out/frames_masks_nonmem/mask_shape8_concave_area2_out.png",
+    "area_before": 512,
+    "area_after": 5173,
+    "area_change": 9.103515625
+  },
+  {
+    "base": "shape8_concave_nofill_area1",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_concave_nofill_area1_init/frames_masks_nonmem/mask_shape8_concave_nofill_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_concave_nofill_area1_out/frames_masks_nonmem/mask_shape8_concave_nofill_area1_out.png",
+    "area_before": 5734,
+    "area_after": 4088,
+    "area_change": 0.2870596442274154
+  },
+  {
+    "base": "shape8_concave_nofill_area2",
+    "type": "concave_nofill",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_concave_nofill_area2_init/frames_masks_nonmem/mask_shape8_concave_nofill_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_concave_nofill_area2_out/frames_masks_nonmem/mask_shape8_concave_nofill_area2_out.png",
+    "area_before": 6613,
+    "area_after": 3439,
+    "area_change": 0.4799637078481778
+  },
+  {
+    "base": "shape8_convex_area1",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_convex_area1_init/frames_masks_nonmem/mask_shape8_convex_area1_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_convex_area1_out/frames_masks_nonmem/mask_shape8_convex_area1_out.png",
+    "area_before": 4370,
+    "area_after": 5862,
+    "area_change": 0.3414187643020595
+  },
+  {
+    "base": "shape8_convex_area2",
+    "type": "convex",
+    "before_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_convex_area2_init/frames_masks_nonmem/mask_shape8_convex_area2_init.png",
+    "after_mask": "/Users/andreaprocopio/Desktop/object_reps_neural/hugging_face/model_experiments/exp3b_results/nvidia_segformer-b3-finetuned-ade-512-512/cde/processed_images/segformer_model_shape8_convex_area2_out/frames_masks_nonmem/mask_shape8_convex_area2_out.png",
+    "area_before": 2359,
+    "area_after": 3077,
+    "area_change": 0.3043662568885121
+  }
+]
