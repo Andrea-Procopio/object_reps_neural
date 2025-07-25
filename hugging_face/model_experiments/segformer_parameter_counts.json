@@ -1,0 +1,44 @@
+[
+  {
+    "model_name": "nvidia/segformer-b0-finetuned-ade-512-512",
+    "total_params": 3752694,
+    "trainable_params": 3752694,
+    "total_params_m": 3.752694,
+    "trainable_params_m": 3.752694
+  },
+  {
+    "model_name": "nvidia/segformer-b1-finetuned-ade-512-512",
+    "total_params": 13715798,
+    "trainable_params": 13715798,
+    "total_params_m": 13.715798,
+    "trainable_params_m": 13.715798
+  },
+  {
+    "model_name": "nvidia/segformer-b2-finetuned-ade-512-512",
+    "total_params": 27461974,
+    "trainable_params": 27461974,
+    "total_params_m": 27.461974,
+    "trainable_params_m": 27.461974
+  },
+  {
+    "model_name": "nvidia/segformer-b3-finetuned-ade-512-512",
+    "total_params": 47337814,
+    "trainable_params": 47337814,
+    "total_params_m": 47.337814,
+    "trainable_params_m": 47.337814
+  },
+  {
+    "model_name": "nvidia/segformer-b4-finetuned-ade-512-512",
+    "total_params": 64108374,
+    "trainable_params": 64108374,
+    "total_params_m": 64.108374,
+    "trainable_params_m": 64.108374
+  },
+  {
+    "model_name": "nvidia/segformer-b5-finetuned-ade-640-640",
+    "total_params": 84708694,
+    "trainable_params": 84708694,
+    "total_params_m": 84.708694,
+    "trainable_params_m": 84.708694
+  }
+]
